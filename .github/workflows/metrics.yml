@@ -52,15 +52,10 @@ jobs:
           plugin_people_identicons: yes
           plugin_people_shuffle: yes
           plugin_people_thanks: Mugweru01
-          plugin_projects: yes
-          plugin_projects_limit: 4
-          plugin_projects_descriptions: no
           plugin_stars: yes
           plugin_stars_limit: 3
           plugin_introduction: yes
           plugin_introduction_title: yes
-          plugin_pagespeed: yes
-          plugin_pagespeed_url: .user.website
           plugin_followup: yes
           plugin_followup_sections: repositories
           plugin_followup_indepth: yes

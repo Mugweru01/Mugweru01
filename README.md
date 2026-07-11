@@ -205,7 +205,7 @@ LLMs • AI Agents • Prompt Engineering • Automation • Embeddings • RAG 
 
 ---
 
-#  Featured Projects
+# 🚀 Featured Projects
 
 <table>
 
@@ -376,7 +376,7 @@ The graph below isn't just a visualization of commits—it's a reflection of con
 
 ---
 
-#  What I'm Focused On
+# 🎯 What I'm Focused On
 
 ```text
 🏡 Scaling Homara
@@ -399,7 +399,7 @@ The graph below isn't just a visualization of commits—it's a reflection of con
 ```
 
 ---
-# �️ Roadmap
+# 🗺️ Roadmap
 
 Currently investing my time in mastering
 
