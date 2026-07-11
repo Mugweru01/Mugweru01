@@ -66,282 +66,6 @@ As Founder & CEO, I lead product strategy, software engineering, system architec
 
 ---
 
-# 🚀 Current Mission
-
-I'm currently focused on building technology at the intersection of:
-
-- 🏡 Property Technology (PropTech)
-- 📊 Data Engineering
-- ☁️ Cloud Engineering
-- 🤖 Artificial Intelligence
-- 📈 Business Intelligence
-- 🏗️ Distributed Systems
-- ⚡ High Performance APIs
-- 🔐 Security by Design
-
-Every project I build is guided by one simple goal:
-
-> **Create software that solves real problems and continues to scale long after version 1.0.**
-
----
-
-# 💼 What I Do
-
-## Software Engineering
-
-Designing modern, scalable applications using contemporary technologies and engineering best practices.
-
-## Data Engineering
-
-Building data pipelines, modelling information and creating systems that transform raw data into trusted insights.
-
-## Data Analytics
-
-Turning data into decisions through dashboards, reporting, forecasting and business intelligence.
-
-## Cloud Engineering
-
-Designing cloud-native architectures focused on performance, security and scalability.
-
-## Artificial Intelligence
-
-Exploring practical AI solutions, intelligent automation and modern language model integrations.
-
----
-
-# 🛠️ Technology Stack
-
-## Languages
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=python,ts,js,html,css"/>
-
-</p>
-
----
-
-## Frontend
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,vite"/>
-
-</p>
-
----
-
-## Backend
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=nodejs,postgres,supabase,docker"/>
-
-</p>
-
----
-
-## Cloud & DevOps
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=aws,github,git,vercel,docker"/>
-
-</p>
-
----
-
-## Data & Analytics
-
-- Python
-- SQL
-- PostgreSQL
-- Power BI
-- Excel
-- Data Warehousing
-- ETL
-- Data Modelling
-- Forecasting
-- Dashboard Development
-- Business Intelligence
-
----
-
-## Currently Exploring
-
-- Apache Spark
-- Distributed Data Processing
-- Event Driven Architectures
-- Streaming Data Pipelines
-- Lakehouse Architecture
-- AWS Data Services
-- Machine Learning Infrastructure
-
----
-
-# 📈 Engineering Philosophy
-
-```text
-Think before coding.
-
-Design before scaling.
-
-Measure before optimising.
-
-Automate before repeating.
-
-Document before forgetting.
-
-Build systems that people trust.
-```
-
----
-
-# 🌍 Beyond GitHub
-
-Not everything I build lives inside repositories.
-
-Some of my favourite work is already running in production.
-
-🏡 Homara
-
-https://homara-ke.homes
-
-🌍 Portfolio
-
-https://edwin-mugweru.vercel.app
-
----
-
-# 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Mugweru01&show_icons=true&theme=transparent&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true"/>
-
-<img height="170" src="https://streak-stats.demolab.com?user=Mugweru01&theme=transparent&hide_border=true"/>
-
-</div>
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mugweru01&layout=compact&langs_count=8&theme=transparent&hide_border=true"/>
-
-</div>
-
----
-
-# 📈 Contribution Activity
-
-<div align="center">
-
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Mugweru01&theme=github-compact&hide_border=true"/>
-
-</div>
-
----
-# 🚀 Currently Building
-
-<table>
-
-<tr>
-
-<td width="50%">
-
-### 🏡 Homara
-
-Building one of Kenya's next-generation property technology platforms.
-
-Current focus:
-
-- Property Management
-- Digital Agreements
-- Payments
-- AI Integration
-- Staff Platform
-- Customer Experience
-- System Scalability
-- Security
-
-</td>
-
-<td width="50%">
-
-### 📊 Data Engineering
-
-Exploring modern data engineering technologies and practices.
-
-Current areas of interest:
-
-- Apache Spark
-- Data Warehousing
-- ETL Pipelines
-- Lakehouse Architecture
-- AWS Data Services
-- Data Modeling
-- Workflow Orchestration
-- Distributed Computing
-
-</td>
-
-</tr>
-
-</table>
-
----
-# 💡 Engineering Mindset
-
-```text
-Design systems, not features.
-
-Build products, not demos.
-
-Automate repetitive work.
-
-Measure everything.
-
-Document thoroughly.
-
-Scale intentionally.
-
-Never stop learning.
-```
-
----
-# 🗺️ Journey
-
-```text
-Customer Service
-        │
-        ▼
-Team Leadership
-        │
-        ▼
-IT Support
-        │
-        ▼
-Software Engineering
-        │
-        ▼
-Data Analytics
-        │
-        ▼
-Data Engineering
-        │
-        ▼
-Founder & CEO @ Homara
-```
-
----
-# ⚡ Core Technologies
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,typescript,javascript,nextjs,react,nodejs,postgres,docker,aws,git,github,vscode&perline=6"/>
-
-</div>
-
----
 # ⚙️ Engineering Stack
 
 <div align="center">
@@ -480,41 +204,26 @@ LLMs • AI Agents • Prompt Engineering • Automation • Embeddings • RAG 
 </div>
 
 ---
----
 
-# 🏆 GitHub Achievements
+# 📊 GitHub Analytics
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Mugweru01&theme=algolia&no-frame=true&no-bg=true&margin-w=12&row=2&column=4"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Mugweru01&show_icons=true&theme=transparent&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true"/>
+
+<img height="170" src="https://streak-stats.demolab.com?user=Mugweru01&theme=transparent&hide_border=true"/>
 
 </div>
 
-> *Consistency compounds. Every commit is another step toward mastering the craft.*
-
----
-
-# 📈 GitHub Analytics
-
 <div align="center">
 
-<img height="175" src="https://github-readme-stats.vercel.app/api?username=Mugweru01&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github"/>
-
-<img height="175" src="https://streak-stats.demolab.com?user=Mugweru01&theme=transparent&hide_border=true"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mugweru01&layout=compact&theme=transparent&hide_border=true&langs_count=10"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mugweru01&layout=compact&langs_count=8&theme=transparent&hide_border=true"/>
 
 </div>
 
 ---
 
-# 📊 Contribution Activity
+# 📈 Activity Graph
 
 <div align="center">
 
@@ -523,6 +232,7 @@ LLMs • AI Agents • Prompt Engineering • Automation • Embeddings • RAG 
 </div>
 
 ---
+
 # 🚀 Featured Projects
 
 <table>
@@ -643,7 +353,48 @@ Modern Deployment
 </table>
 
 ---
-# 📍 What I'm Focused On
+
+# 📈 Building Consistently
+
+Consistency beats intensity.
+
+The graph below isn't just a visualization of commits—it's a reflection of continuous learning, experimentation, problem-solving and shipping software.
+
+<div align="center">
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/Mugweru01/Mugweru01/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/Mugweru01/Mugweru01/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="GitHub Contribution Snake"
+    src="https://raw.githubusercontent.com/Mugweru01/Mugweru01/output/github-contribution-grid-snake.svg"
+    width="100%"
+  />
+</picture>
+
+</div>
+
+---
+
+# 🏆 Achievements
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Mugweru01&theme=algolia&no-frame=true&no-bg=true&margin-w=12&row=2&column=4"/>
+
+</div>
+
+> *Consistency compounds. Every commit is another step toward mastering the craft.*
+
+---
+
+#  What I'm Focused On
 
 ```text
 🏡 Scaling Homara
@@ -666,7 +417,7 @@ Modern Deployment
 ```
 
 ---
-# 🛣 Road Ahead
+# �️ Roadmap
 
 Currently investing my time in mastering
 
@@ -705,7 +456,7 @@ When I'm not building software, you'll probably find me
 ---
 <div align="center">
 
-## Let's build something meaningful.
+# 🤝 Connect
 
 Software Engineering • Data Engineering • Analytics • Cloud • AI
 
