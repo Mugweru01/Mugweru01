@@ -17,10 +17,10 @@ jobs:
         uses: actions/checkout@v4
 
       - name: Generate trophy
-        uses: ryo-ma/github-profile-trophy@2ba2fe648c4e9b17d66e01bec285e083ca1824d3 # v1.0
+        uses: ryo-ma/github-profile-trophy@ccb591b887775ee567c0d9a38424ddfb9b1906c4 # master, includes theme input
         with:
           username: Mugweru01
-          output_path: profile-trophy.svg
+          output_path: ./profile-trophy.svg
           token: ${{ secrets.GITHUB_TOKEN }}
           theme: algolia
 
