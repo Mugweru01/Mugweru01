@@ -205,59 +205,7 @@ LLMs • AI Agents • Prompt Engineering • Automation • Embeddings • RAG 
 
 ---
 
-# 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Mugweru01&show_icons=true&theme=transparent&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true"/>
-
-<img height="170" src="https://streak-stats.demolab.com?user=Mugweru01&theme=transparent&hide_border=true"/>
-
-</div>
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mugweru01&layout=compact&langs_count=8&theme=transparent&hide_border=true"/>
-
-</div>
-
----
-
-# 📈 Activity Graph
-
-<div align="center">
-
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Mugweru01&theme=github-compact&hide_border=true"/>
-
-</div>
-
----
-
-# 🌌 Contribution Landscape
-
-<div align="center">
-
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="./profile-3d-contrib/profile-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="./profile-3d-contrib/profile-light.svg"
-  />
-  <img
-    src="./profile-3d-contrib/profile-light.svg"
-    width="100%"
-    alt="3D Contribution Calendar"
-  />
-</picture>
-
-</div>
-
----
-
-# 🚀 Featured Projects
+#  Featured Projects
 
 <table>
 
@@ -415,6 +363,16 @@ The graph below isn't just a visualization of commits—it's a reflection of con
 </div>
 
 > *Consistency compounds. Every commit is another step toward mastering the craft.*
+
+---
+
+# 📊 GitHub Metrics
+
+<div align="center">
+
+<img src="./github-metrics.svg" width="100%" alt="GitHub Metrics"/>
+
+</div>
 
 ---
 
