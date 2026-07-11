@@ -67,11 +67,8 @@ jobs:
           plugin_stars_limit: 3
           plugin_introduction: yes
           plugin_introduction_title: yes
-          plugin_introduction_mode: table
           plugin_pagespeed: yes
           plugin_pagespeed_url: .user.website
-          plugin_traffic: yes
-          plugin_traffic_days: 30
           plugin_followup: yes
           plugin_followup_sections: repositories
           plugin_followup_indepth: yes
