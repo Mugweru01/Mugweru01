@@ -233,6 +233,30 @@ LLMs • AI Agents • Prompt Engineering • Automation • Embeddings • RAG 
 
 ---
 
+# 🌌 Contribution Landscape
+
+<div align="center">
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="./profile-3d-contrib/profile-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="./profile-3d-contrib/profile-light.svg"
+  />
+  <img
+    src="./profile-3d-contrib/profile-light.svg"
+    width="100%"
+    alt="3D Contribution Calendar"
+  />
+</picture>
+
+</div>
+
+---
+
 # 🚀 Featured Projects
 
 <table>
