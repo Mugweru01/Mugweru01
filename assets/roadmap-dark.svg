@@ -1,0 +1,134 @@
+<svg viewBox="0 0 1400 410" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif,'Apple Color Emoji','Segoe UI Emoji'">
+  <title>Roadmap: Data Engineering, Distributed Systems, Apache Spark, Apache Kafka, Apache Airflow, Lakehouse Architecture, AWS Data Engineering, Cloud Native Infrastructure, AI Engineering, Machine Learning Infrastructure</title>
+  <defs>
+    <filter id="glowBlurD" x="-60%" y="-60%" width="220%" height="220%">
+      <feGaussianBlur stdDeviation="6"/>
+    </filter>
+    <style>
+      @keyframes pulseD { 0%,100% { opacity:.28; } 50% { opacity:.72; } }
+      .glowD { fill:#16a974; filter:url(#glowBlurD); animation:pulseD 2.4s ease-in-out infinite; }
+      .labelD { font-size:19px; font-weight:600; fill:#e6edf3; paint-order:stroke fill; stroke:#0d1117; stroke-width:4px; stroke-linejoin:round; }
+      .numD { font-size:13px; font-weight:700; fill:#16a974; }
+      .iconD { font-size:30px; }
+    </style>
+  </defs>
+
+  <path id="roadD" d="M80,120 C148.89,120 148.89,280 217.78,280 C286.67,280 286.67,120 355.56,120 C424.45,120 424.45,280 493.33,280 C562.22,280 562.22,120 631.11,120 C700,120 700,280 768.89,280 C837.78,280 837.78,120 906.67,120 C975.56,120 975.56,280 1044.44,280 C1113.33,280 1113.33,120 1182.22,120 C1251.11,120 1251.11,280 1320,280"
+        fill="none" stroke="#6e7681" stroke-width="22" stroke-linecap="round" stroke-linejoin="round"/>
+
+  <path d="M80,120 C148.89,120 148.89,280 217.78,280 C286.67,280 286.67,120 355.56,120 C424.45,120 424.45,280 493.33,280 C562.22,280 562.22,120 631.11,120 C700,120 700,280 768.89,280 C837.78,280 837.78,120 906.67,120 C975.56,120 975.56,280 1044.44,280 C1113.33,280 1113.33,120 1182.22,120 C1251.11,120 1251.11,280 1320,280"
+        fill="none" stroke="#f2c811" stroke-width="3" stroke-dasharray="14 14" stroke-linecap="round">
+    <animate attributeName="stroke-dashoffset" from="0" to="-56" dur="2s" repeatCount="indefinite"/>
+  </path>
+
+  <text x="30" y="132" font-size="28" text-anchor="middle">🚩</text>
+  <text x="1370" y="292" font-size="28" text-anchor="middle">🏁</text>
+
+  <g>
+    <circle class="glowD" cx="80" cy="120" r="34" style="animation-delay:0s"/>
+    <circle cx="80" cy="120" r="30" fill="#16a974" stroke="#c9d1d9" stroke-width="4"/>
+    <circle cx="80" cy="120" r="20" fill="#ffffff"/>
+    <image x="64" y="104" width="32" height="32" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/apache/apache-original.svg" xlink:href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/apache/apache-original.svg"/>
+    <circle cx="106" cy="146" r="12" fill="#0d1117" stroke="#16a974" stroke-width="2"/>
+    <text class="numD" x="106" y="146" dy="0.32em" text-anchor="middle">1</text>
+    <text class="labelD" x="80" y="66" text-anchor="middle">Data Engineering</text>
+  </g>
+
+  <g>
+    <circle class="glowD" cx="217.78" cy="280" r="34" style="animation-delay:.25s"/>
+    <circle cx="217.78" cy="280" r="30" fill="#16a974" stroke="#c9d1d9" stroke-width="4"/>
+    <circle cx="217.78" cy="280" r="20" fill="#ffffff"/>
+    <image x="201.78" y="264" width="32" height="32" href="https://cdn.jsdelivr.net/npm/simple-icons@14.15.0/icons/apachehadoop.svg" xlink:href="https://cdn.jsdelivr.net/npm/simple-icons@14.15.0/icons/apachehadoop.svg"/>
+    <circle cx="243.78" cy="306" r="12" fill="#0d1117" stroke="#16a974" stroke-width="2"/>
+    <text class="numD" x="243.78" y="306" dy="0.32em" text-anchor="middle">2</text>
+    <text class="labelD" x="217.78" y="344" text-anchor="middle">Distributed Systems</text>
+  </g>
+
+  <g>
+    <circle class="glowD" cx="355.56" cy="120" r="34" style="animation-delay:.5s"/>
+    <circle cx="355.56" cy="120" r="30" fill="#16a974" stroke="#c9d1d9" stroke-width="4"/>
+    <circle cx="355.56" cy="120" r="20" fill="#ffffff"/>
+    <image x="339.56" y="104" width="32" height="32" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/apachespark/apachespark-original.svg" xlink:href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/apachespark/apachespark-original.svg"/>
+    <circle cx="381.56" cy="146" r="12" fill="#0d1117" stroke="#16a974" stroke-width="2"/>
+    <text class="numD" x="381.56" y="146" dy="0.32em" text-anchor="middle">3</text>
+    <text class="labelD" x="355.56" y="66" text-anchor="middle">Apache Spark</text>
+  </g>
+
+  <g>
+    <circle class="glowD" cx="493.33" cy="280" r="34" style="animation-delay:.75s"/>
+    <circle cx="493.33" cy="280" r="30" fill="#16a974" stroke="#c9d1d9" stroke-width="4"/>
+    <circle cx="493.33" cy="280" r="20" fill="#ffffff"/>
+    <image x="477.33" y="264" width="32" height="32" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/apachekafka/apachekafka-original.svg" xlink:href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/apachekafka/apachekafka-original.svg"/>
+    <circle cx="519.33" cy="306" r="12" fill="#0d1117" stroke="#16a974" stroke-width="2"/>
+    <text class="numD" x="519.33" y="306" dy="0.32em" text-anchor="middle">4</text>
+    <text class="labelD" x="493.33" y="344" text-anchor="middle">Apache Kafka</text>
+  </g>
+
+  <g>
+    <circle class="glowD" cx="631.11" cy="120" r="34" style="animation-delay:1s"/>
+    <circle cx="631.11" cy="120" r="30" fill="#16a974" stroke="#c9d1d9" stroke-width="4"/>
+    <circle cx="631.11" cy="120" r="20" fill="#ffffff"/>
+    <image x="615.11" y="104" width="32" height="32" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/apacheairflow/apacheairflow-original.svg" xlink:href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/apacheairflow/apacheairflow-original.svg"/>
+    <circle cx="657.11" cy="146" r="12" fill="#0d1117" stroke="#16a974" stroke-width="2"/>
+    <text class="numD" x="657.11" y="146" dy="0.32em" text-anchor="middle">5</text>
+    <text class="labelD" x="631.11" y="66" text-anchor="middle">Apache Airflow</text>
+  </g>
+
+  <g>
+    <circle class="glowD" cx="768.89" cy="280" r="34" style="animation-delay:1.25s"/>
+    <circle cx="768.89" cy="280" r="30" fill="#16a974" stroke="#c9d1d9" stroke-width="4"/>
+    <circle cx="768.89" cy="280" r="20" fill="#ffffff"/>
+    <image x="752.89" y="264" width="32" height="32" href="https://cdn.jsdelivr.net/npm/simple-icons@14.15.0/icons/databricks.svg" xlink:href="https://cdn.jsdelivr.net/npm/simple-icons@14.15.0/icons/databricks.svg"/>
+    <circle cx="794.89" cy="306" r="12" fill="#0d1117" stroke="#16a974" stroke-width="2"/>
+    <text class="numD" x="794.89" y="306" dy="0.32em" text-anchor="middle">6</text>
+    <text class="labelD" x="768.89" y="344" text-anchor="middle">Lakehouse Arch.</text>
+  </g>
+
+  <g>
+    <circle class="glowD" cx="906.67" cy="120" r="34" style="animation-delay:1.5s"/>
+    <circle cx="906.67" cy="120" r="30" fill="#16a974" stroke="#c9d1d9" stroke-width="4"/>
+    <circle cx="906.67" cy="120" r="20" fill="#ffffff"/>
+    <image x="890.67" y="104" width="32" height="32" href="https://cdn.jsdelivr.net/npm/simple-icons@14.15.0/icons/amazonwebservices.svg" xlink:href="https://cdn.jsdelivr.net/npm/simple-icons@14.15.0/icons/amazonwebservices.svg"/>
+    <circle cx="932.67" cy="146" r="12" fill="#0d1117" stroke="#16a974" stroke-width="2"/>
+    <text class="numD" x="932.67" y="146" dy="0.32em" text-anchor="middle">7</text>
+    <text class="labelD" x="906.67" y="66" text-anchor="middle">AWS Data Eng.</text>
+  </g>
+
+  <g>
+    <circle class="glowD" cx="1044.44" cy="280" r="34" style="animation-delay:1.75s"/>
+    <circle cx="1044.44" cy="280" r="30" fill="#16a974" stroke="#c9d1d9" stroke-width="4"/>
+    <circle cx="1044.44" cy="280" r="20" fill="#ffffff"/>
+    <image x="1028.44" y="264" width="32" height="32" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/kubernetes/kubernetes-plain.svg" xlink:href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/kubernetes/kubernetes-plain.svg"/>
+    <circle cx="1070.44" cy="306" r="12" fill="#0d1117" stroke="#16a974" stroke-width="2"/>
+    <text class="numD" x="1070.44" y="306" dy="0.32em" text-anchor="middle">8</text>
+    <text class="labelD" x="1044.44" y="344" text-anchor="middle">Cloud Native Infra</text>
+  </g>
+
+  <g>
+    <circle class="glowD" cx="1182.22" cy="120" r="34" style="animation-delay:2s"/>
+    <circle cx="1182.22" cy="120" r="30" fill="#16a974" stroke="#c9d1d9" stroke-width="4"/>
+    <circle cx="1182.22" cy="120" r="20" fill="#ffffff"/>
+    <image x="1166.22" y="104" width="32" height="32" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/pytorch/pytorch-original.svg" xlink:href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/pytorch/pytorch-original.svg"/>
+    <circle cx="1208.22" cy="146" r="12" fill="#0d1117" stroke="#16a974" stroke-width="2"/>
+    <text class="numD" x="1208.22" y="146" dy="0.32em" text-anchor="middle">9</text>
+    <text class="labelD" x="1182.22" y="66" text-anchor="middle">AI Engineering</text>
+  </g>
+
+  <g>
+    <circle class="glowD" cx="1320" cy="280" r="34" style="animation-delay:2.25s"/>
+    <circle cx="1320" cy="280" r="30" fill="#16a974" stroke="#c9d1d9" stroke-width="4"/>
+    <circle cx="1320" cy="280" r="20" fill="#ffffff"/>
+    <image x="1304" y="264" width="32" height="32" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/scikitlearn/scikitlearn-original.svg" xlink:href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/scikitlearn/scikitlearn-original.svg"/>
+    <circle cx="1346" cy="306" r="12" fill="#0d1117" stroke="#16a974" stroke-width="2"/>
+    <text class="numD" x="1346" y="306" dy="0.32em" text-anchor="middle">10</text>
+    <text class="labelD" x="1320" y="344" text-anchor="middle">ML Infrastructure</text>
+  </g>
+
+  <g>
+    <circle r="16" fill="#F2C811" stroke="#0d1117" stroke-width="3"/>
+    <text font-size="20" text-anchor="middle" dy="0.35em">🚀</text>
+    <animateMotion dur="14s" repeatCount="indefinite">
+      <mpath href="#roadD" xlink:href="#roadD"/>
+    </animateMotion>
+  </g>
+</svg>

@@ -403,16 +403,25 @@ The graph below isn't just a visualization of commits—it's a reflection of con
 
 Currently investing my time in mastering
 
-- Data Engineering
-- Distributed Systems
-- Apache Spark
-- Apache Kafka
-- Apache Airflow
-- Lakehouse Architecture
-- AWS Data Engineering
-- Cloud Native Infrastructure
-- AI Engineering
-- Machine Learning Infrastructure
+<div align="center">
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="./assets/roadmap-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="./assets/roadmap-light.svg"
+  />
+  <img
+    alt="Roadmap: Data Engineering, Distributed Systems, Apache Spark, Apache Kafka, Apache Airflow, Lakehouse Architecture, AWS Data Engineering, Cloud Native Infrastructure, AI Engineering, Machine Learning Infrastructure"
+    src="./assets/roadmap-light.svg"
+    width="100%"
+  />
+</picture>
+
+</div>
 
 Long-term mission
 
