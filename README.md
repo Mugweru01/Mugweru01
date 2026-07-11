@@ -131,9 +131,9 @@ SQL • PostgreSQL • MySQL • ETL • Data Warehousing • Apache Spark • A
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="55"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="55"/>
 
-<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+<img src="https://custom-icon-badges.demolab.com/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black"/>
 
-<img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
+<img src="https://custom-icon-badges.demolab.com/badge/Microsoft_Excel-217346?style=for-the-badge&logo=excel&logoColor=white"/>
 
 </div>
 
@@ -172,11 +172,11 @@ AWS • Docker • Kubernetes • GitHub Actions • Linux • CI/CD • Cloud A
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="55"/>
 
-<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+<img src="https://custom-icon-badges.demolab.com/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google-gemini&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white"/>
 
 </div>
 
@@ -358,7 +358,7 @@ The graph below isn't just a visualization of commits—it's a reflection of con
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Mugweru01&theme=algolia&no-frame=true&no-bg=true&margin-w=12&row=2&column=4"/>
+<img src="./profile-trophy.svg" width="100%" alt="GitHub Trophies"/>
 
 </div>
 
