@@ -22,3 +22,11 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: Mugweru01
           SETTING_JSON: conf/profile-3d-contrib.json
+      
+      - name: Commit and push
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add profile-3d-contrib/
+          git commit -m "Generate 3D contribution calendar" || exit 0
+          git push
