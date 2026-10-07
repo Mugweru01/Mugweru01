@@ -35,6 +35,7 @@ jobs:
           SETTING_JSON: conf/profile-3d-contrib.json
 
       - name: Generate trophy card
+        if: ${{ !cancelled() }}
         uses: ryo-ma/github-profile-trophy@e3c89df995e92e67cdd4b2acaab9d974583dc1f7 # master
         with:
           username: Mugweru01
