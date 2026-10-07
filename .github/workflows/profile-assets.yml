@@ -1,0 +1,54 @@
+name: Profile Assets
+
+# Regenerates the 3D contribution calendar and the trophy card,
+# then pushes them together in a single commit.
+
+on:
+  schedule:
+    - cron: "15 0 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: profile-assets
+  cancel-in-progress: false
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    # METRICS_TOKEN (a personal access token) is needed for the trophy card:
+    # the default GITHUB_TOKEN cannot read the user profile data it queries.
+    environment:
+      name: production
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v5
+
+      - name: Generate 3D contribution calendar
+        uses: yoshi389111/github-profile-3d-contrib@v0.9.3
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: Mugweru01
+          SETTING_JSON: conf/profile-3d-contrib.json
+
+      - name: Generate trophy card
+        uses: ryo-ma/github-profile-trophy@e3c89df995e92e67cdd4b2acaab9d974583dc1f7 # master
+        with:
+          username: Mugweru01
+          output_path: ./profile-trophy.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          theme: algolia
+
+      # Commit whatever was generated, even if one generator failed.
+      - name: Commit and push
+        if: ${{ !cancelled() }}
+        run: |
+          git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add profile-3d-contrib/ profile-trophy.svg
+          git diff --cached --quiet && exit 0
+          git commit -m "chore: refresh profile assets [skip ci]"
+          git push
